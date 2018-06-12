@@ -1,0 +1,77 @@
+{
+  "lanes": [
+    {
+      "id": "To-do",
+      "title": "To-do Tasks",
+      "label": "30/70",
+      "style": {"width": 280},
+      "cards": [
+        {
+          "id": "Milk",
+          "title": "Buy milk",
+          "label": "15 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Purchase 2 Litres of milk from the store"
+        },
+        {
+          "id": "Todo2",
+          "title": "Bill Payment",
+          "label": "10 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Pay Electricity Bill"
+        },
+        {
+          "id": "Todo3",
+          "title": "Attend Meeting",
+          "label": "30 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Attend Meeting at 10 AM at Office"
+        },
+        {
+          "id": "Todo4",
+          "title": "Pay Rent",
+          "label": "5 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Pay current month Rent"
+        }
+      ]
+    },
+    {
+      "id": "WIP",
+      "title": "Work In Progress",
+      "label": "10/20",
+      "style": {"width": 280},
+      "cards": [
+        {
+          "id": "Wip1",
+          "title": "Cooking",
+          "label": "60 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Boil eggs, Make Rice and Chapati"
+        }
+      ]
+    },
+    {
+      "id": "COMPLETED",
+      "title": "Completed",
+      "style": {"width": 280},
+      "label": "2/5",
+      "cards": [
+        {
+          "id": "Completed1",
+          "title": "Exercise",
+          "label": "15 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Attended Yoga session early morning"
+        },
+        {
+          "id": "Completed2",
+          "title": "Payment",
+          "label": "10 mins",
+          "cardStyle": { "width": 270, "maxWidth": 270, "margin": "auto", "marginBottom": 5 },
+          "description": "Ticket Payment done"
+        }
+      ]
+    }
+  ]
+}
